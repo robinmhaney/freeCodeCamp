@@ -8,7 +8,7 @@ This is a stub. <a href='https://github.com/freecodecamp/guides/tree/master/src/
 <a href='https://github.com/freecodecamp/guides/blob/master/README.md' target='_blank' rel='nofollow'>This quick style guide will help ensure your pull request gets accepted</a>.
 
 <!-- The article goes here, in GitHub-flavored Markdown. Feel free to add YouTube videos, images, and CodePen/JSBin embeds  -->
-Links are used everywhere on the web, with the purpose if directing users to various content items. They're usually indicated by your cursor turning into a hand icon. Links can be text, images or other elements contained within your HTML or webpage. 
+Links are used everywhere on the web, with the purpose of directing users to various content items. They're usually indicated by your cursor turning into a hand icon. Links can be text, images or other elements contained within your HTML or webpage. 
 
 You use an ```code <a>``` tag or anchor element to define your link, which also also needs a destination address that you'll access with the ```code href``` attribute. Here's a snippet that makes the phrase 'the freeCodeCamp Guide' a link:
 
@@ -38,7 +38,7 @@ you'll then need to use an ```code id``` attribute in the element you want to di
 <!-- Please add any articles you think might be helpful to read before writing the article -->
 <a href="https://www.w3schools.com/html/html_links.asp" target="_blank">w3sschools - HTML Links</a>
 
-
+https://ryanstutorials.net/html-tutorial/html-links.php
 
 
 
